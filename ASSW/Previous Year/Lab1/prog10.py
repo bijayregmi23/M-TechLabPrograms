@@ -1,0 +1,6 @@
+s = input("Enter the string")
+chars = s.split(" ")
+a = chars.count('a')+chars.count('A')
+an = chars.count('an')+chars.count('An')
+the = chars.count('the')+chars.count('The')
+print(f"The total number of articles in the string is {a+an+the}")

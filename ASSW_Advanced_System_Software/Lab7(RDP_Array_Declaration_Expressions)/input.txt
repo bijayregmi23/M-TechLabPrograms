@@ -1,0 +1,1 @@
+main(){inta,b,c,d;floate[5];a=b+c;c=d-b;}
